@@ -1,0 +1,7 @@
+{
+  "name": "ProyectoPantallas",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
